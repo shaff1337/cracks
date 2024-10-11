@@ -15,6 +15,9 @@
 -	Me (shaff) will have zero responsibilty with any damages caused by these "files/cracks" to your personal items/PC.
 -	You agree to these terms when downloading the files from my repo.
 
+## **Issues?**
+- Feel free to make a issue report in this github if any cracks are not working. I'll try my best to update it.
+- Another contact is my discord, i'm mostly online, or afk. my contact is below.
  --- 
 
 	discord: @shaffgg
