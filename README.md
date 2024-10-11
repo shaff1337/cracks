@@ -1,28 +1,27 @@
-## **cracks that have been reversed by me - Read Below**
+# **Cracks Reversed by Me**
 
---- 
-- read rules before continuing
-- check releases for more info abt the cracks
-- each branch is a crack
-- select a branch to whatever crack you want or js go to releases and download what u want
+## **Important Information**
+- **Read the rules carefully before proceeding.**
+- Check the **Releases** section for detailed information about each crack.
+- Each branch corresponds to a specific crack. Select a branch or visit the **Releases** section to download what you need.
 
---- 
+---
 
+## **Repository Information & Rules**
+- You are free to use and modify the cracks as long as you do **not** sell them or create different copies based on the information provided.
+- Most of these drivers, mappers, cheats, and spoofers may be detected or sourced from other places.
+- I (shaff) take **zero responsibility** for any damages caused by these files or cracks to your personal items or PC.
+- By downloading files from this repository, you agree to these terms.
+- This project is intended as a proof of concept for demonstration purposes. Any harm caused by using these loaders is **not my responsibility.** You acknowledge this when using the project.
 
-## **REPO Infomation/Rules**
-- Feel free to use and modify the cracks as you like as long as you don't sell it or a different copy/paste based off the infomation provided with the cracks.
-- Most of these drivers/mappers/cheats/spoofers might be detected or just pasted from other places. 
-- Me (shaff) will have zero responsibilty with any damages caused by these "files/cracks" to your personal items/PC.
-- You agree to these terms when downloading the files from my repo.
-- This project is a proof of concept made solely for demonstration purposes, any harm made using these loaders is not my responsability, you agree to this when using it.
-  
-## **Issues?**
-- Feel free to make a issue report in this github if any cracks are not working. I'll try my best to update it.
-- Another contact is my discord, i'm mostly online, or afk. my contact is below.
+## **Encountering Issues?**
+- If you find any cracks that are not working, please submit an issue report on this GitHub repository. I will do my best to address it.
+- Alternatively, you can contact me on Discord; I’m usually online or AFK. My contact is provided below.
 
-- If your loader end's up being cracked by me and uploaded on this repo, you are not able to take my repo down. This repo's sole purpose is to demonstrate that your loader is very unprotected and or easily bypassable. This repo is to help you protect urself from these attacks.
+- If your loader ends up being cracked by me and uploaded to this repository, you cannot request the removal of my repository. The purpose of this repo is to demonstrate that your loader may be unprotected or easily bypassable. This project aims to help you safeguard against such vulnerabilities.
 
- --- 
+---
 
-	discord: @shaffgg
-	E-Z Bio: https://e-z.bio/shaff
+## **Contact Information**
+- Discord: **@shaffgg**
+- E-Z Bio: [https://e-z.bio/shaff](https://e-z.bio/shaff)
