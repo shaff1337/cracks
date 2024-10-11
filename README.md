@@ -1,15 +1,12 @@
-## **cracks that have been reversed by me.**
+## **cracks that have been reversed by me - Read Below**
 
 --- 
 
-	• check releases for more info abt the cracks
-	• each branch is a crack
-	• select a branch to whatever crack you want or js go to releases and download what u want
+- check releases for more info abt the cracks
+- each branch is a crack
+- select a branch to whatever crack you want or js go to releases and download what u want
 
-	discord: @shaffgg
-	E-Z Bio: https://e-z.bio/shaff
 --- 
-
 
 
 ## **REPO Infomation**
@@ -19,3 +16,6 @@
 -	You agree to these terms when downloading the files from my repo.
 
  --- 
+
+	discord: @shaffgg
+	E-Z Bio: https://e-z.bio/shaff
