@@ -5,7 +5,7 @@
 - Check the **Releases** section for detailed information about each crack.
 - Each branch corresponds to a specific crack. Select a branch or visit the **Releases** section to download what you need.
 - All branches relating to cracks are here: [https://github.com/shaff1337/cracks/branches](https://github.com/shaff1337/cracks/branches)
-
+- Loaders can be send to me via the [Issues Page](https://github.com/shaff1337/cracks/issues) to be cracked.
 ---
 
 ## **Repository Information & Rules**
